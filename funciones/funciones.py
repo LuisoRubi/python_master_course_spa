@@ -17,7 +17,7 @@ print(saludo())
 #     sumar = a + b
 #     return sumar
 
-# print(suma(1, 2))
+# print(suma(1, 2))n
 
 # def datos(nombre, edad):
 #     saludo = nombre + edad
